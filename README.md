@@ -1,5 +1,5 @@
 <p align="center">
-<img src="image.png">
+<img src="poc.png">
 </p>
 
 <p align="center">
