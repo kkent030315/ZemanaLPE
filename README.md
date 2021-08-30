@@ -20,3 +20,8 @@ Also, this software provided without any kind of warranty. See [LICENSE](/LICENS
 1. Download and Install Zemana [AntiMalware](https://www.zemana.com/antimalware) or [AntiLogger](https://www.zemana.com/antilogger).
 2. (Optional) Restart your machine.
 3. Run.
+
+# License
+
+MIT copyright (c) Kento Oki 2021  
+See [LICENSE](/LICENSE)
