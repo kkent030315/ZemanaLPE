@@ -12,6 +12,8 @@
 
 A proof-of-concept of local privilege escalation by exploiting Zemana AntiMalware/AntiLogger
 
+Read more on: https://www.godeye.club/2021/08/30/001-zemana-lpe-vulnerability-exploit.html
+
 # Usage
 
 Make sure to use this on the virtual machine, I do not recommend to try this out on the physical machine.  
