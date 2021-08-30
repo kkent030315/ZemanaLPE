@@ -14,7 +14,7 @@ A proof-of-concept of local privilege escalation by exploiting Zemana AntiMalwar
 
 # Usage
 
-Make sure to use this on the virtual machine, I do not recommend to try this out on the physical machine.
+Make sure to use this on the virtual machine, I do not recommend to try this out on the physical machine.  
 Also, this software provided without any kind of warranty.
 
 1. Download and Install Zemana [AntiMalware](https://www.zemana.com/antimalware) or [AntiLogger](https://www.zemana.com/antilogger).
